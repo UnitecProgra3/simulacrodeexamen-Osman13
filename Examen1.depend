@@ -11,3 +11,15 @@
 	<iostream>
 	<math.h>
 
+1415186694 source:c:\users\olman\documents\osman oliva unitec\programación iii\simulacrodeexamen-osman13-master\evaluador.cpp
+	"Evaluador.h"
+
+1415186694 c:\users\olman\documents\osman oliva unitec\programación iii\simulacrodeexamen-osman13-master\evaluador.h
+	<iostream>
+	<stack>
+
+1446487721 source:c:\users\olman\documents\osman oliva unitec\programación iii\simulacrodeexamen-osman13-master\main.cpp
+	"Evaluador.h"
+	<iostream>
+	<math.h>
+
